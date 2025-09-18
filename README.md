@@ -85,7 +85,7 @@ The dashboard has **3 switchable views**:
 - **Geography Analysis** → Sales by region, state, city with slicers  
 - **Product Analysis** → Top/bottom products, category & subcategory insights  
 
-* Executive View --
+* Executive View -- https://github.com/gracytriyar/Sales-Analytics-Project/blob/main/Executive%20View.png
 * Geography Analysis View --
 * Product Analysis View -- 
 
